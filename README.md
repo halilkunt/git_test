@@ -1,1 +1,1 @@
-This is Halil's first git project.
+Understanding git, github and what README.md is.
